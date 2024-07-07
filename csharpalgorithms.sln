@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "interview", "interview.csproj", "{727E359F-3B94-49F5-B057-4AD78AF1E892}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharpalgorithms", "csharpalgorithms.csproj", "{727E359F-3B94-49F5-B057-4AD78AF1E892}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
